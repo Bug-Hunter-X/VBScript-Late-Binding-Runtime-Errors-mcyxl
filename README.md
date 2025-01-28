@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: runtime errors due to late binding when interacting with COM objects or external libraries.  The `bug.vbs` file shows the problematic code, while `bugSolution.vbs` presents a solution using error handling and early binding where possible.  This is particularly relevant in older scripts interacting with legacy systems.
